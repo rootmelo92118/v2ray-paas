@@ -14,7 +14,7 @@
 # v2ray 部署在 openshift starter
 鉴于转载网友太多，甚至还发到了国内网站上宣传，为避免不必要麻烦，本次对镜像名称进行更改！
 
-Docker 镜像搜索：doudoubing/openshift
+Docker 镜像搜索：miaomiaosoft/openshift
 （fork于wangyi2005/v2ray修改前）
 
 环境变量： CONFIG_JSON（配置）、
